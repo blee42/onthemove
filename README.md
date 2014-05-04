@@ -25,7 +25,7 @@ Client project for Red Team in EECS 394 (Software Project Mangement).
 4. If you have a problem installing pycrpto, then install it separately using:
   ```
   $ ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future pip install pycrypto
-  '''
+  ```
 
   And then remove pycrpto from requirements.txt
 
