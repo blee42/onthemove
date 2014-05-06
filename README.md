@@ -2,7 +2,7 @@
 
 Client project for Red Team in EECS 394 (Software Project Mangement).
 
-[http://red394.herokuapp.com](http://red394.herokuapp.com)
+[http://onthemove.herokuapp.com](http://onthemove.herokuapp.com)
 
 ### Quick Start
 
@@ -70,7 +70,7 @@ Deploying to Heroku
 6. Add heroku to your remote:
 
   ```
-  $ heroku git:remote -a red394
+  $ heroku git:remote -a onthemove
   ```
 
 7. Verify that the heroku remote is listed now:
@@ -92,7 +92,7 @@ Deploying to Heroku
   ```
   $ heroku open
   ```
-  The url should be [http://red394.herokuapp.com](http://red394.herokuapp.com)
+  The url should be [http://onthemove.herokuapp.com](http://onthemove.herokuapp.com)
 
 11. You app should look similar to this - [http://www.flaskboilerplate.com/](http://www.flaskboilerplate.com/)
             

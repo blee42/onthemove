@@ -1,4 +1,4 @@
-#!/Users/leeabrittany/eecs394/394red/env/bin/python
+#!/Users/leeabrittany/eecs394/onthemove/env/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'coverage==3.7.1','console_scripts','coverage'
 __requires__ = 'coverage==3.7.1'
 import sys
